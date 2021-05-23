@@ -35,6 +35,7 @@ Pashyant Srivastava
 -[Tomas Morrongiello](https://github.com/tmorrongiello)
 -[Vishva Mahadevan] (https://github.com/Vishwamagdavan)
 -[Prateek Kumar Sharma](https://github.com/prateeksharma0112)
+-[Azuresky]
 -[M0i9](https://github.com/M0i9)
 -[S Mahesh Kumar](https://github.com/s-mahesh-kumar)
 -[Gianna Crisha P. Saludo](https://github.com/giannacrisha)
